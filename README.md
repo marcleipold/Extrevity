@@ -2,7 +2,7 @@
 
 This the the first repo for Extrevity. 
 
-Its been a 10 year plus journey and finally learning to codse, so here it goes...
+Its been a 10 year plus journey and finally learning to code (kinda), so here it goes...
 
 I would love to collab with talented adeventurers so want to be a part of (hopefully) a platform to help bring extreme sports to the masses and help make a difference along the way.
 
